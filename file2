@@ -1,2 +1,6 @@
 namaste
 hello
+<<<<<<< HEAD
+=======
+hi
+>>>>>>> parent of 4c00b75... Revert "added hello and hi"
